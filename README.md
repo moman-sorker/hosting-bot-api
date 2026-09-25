@@ -1,4 +1,4 @@
-# Simran Hosting — Admin Dashboard
+# MM Hosting — Admin Dashboard
 
 Standalone web dashboard for the Telegram bot. **Zero changes to `bot.py`.**
 
